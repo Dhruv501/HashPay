@@ -1,4 +1,5 @@
 # HashPay
+![alt text](https://github.com/Dhruv501/HashPay/blob/main/client/images/logo.png?raw=true)
 
 ## Table of Contents
 1. [Introduction](#introduction)
